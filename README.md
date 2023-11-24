@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TatsuyaHasunuma0123)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TatsuyaHasunuma0123&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/TatsuyaHasunuma0123/github-readme-stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsuyaHasunuma0123" />
