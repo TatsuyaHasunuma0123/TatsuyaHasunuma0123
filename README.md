@@ -15,29 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TatsuyaHasunuma0123)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=TatsuyaHasunuma0123&column=9&no-frame=true"/>
+</a>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=TatsuyaHasunuma0123&count_private=true&include_all_commits=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatsuyaHasunuma0123&layout=compact" />
+</div>
+
+---
 
 <a href="https://github.com/TatsuyaHasunuma0123/github-readme-stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsuyaHasunuma0123" />
 </a>
-
-
-
-
-<a href="https://github.com/TatsuyaHasunuma0123/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=TatsuyaHasunuma0123&count_private=true&show_icons=true" />
-</a>
-
-<a href="https://github.com/Papillon6814/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatsuyaHasunuma0123" />
-</a>
-
-
-
-
-
-
-
-
-
-
