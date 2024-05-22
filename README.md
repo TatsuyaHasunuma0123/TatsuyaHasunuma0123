@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=TatsuyaHasunuma0123&count_private=true&include_all_commits=true&show_icons=true" />
-  <img src="https://tatsuya-readme-stats-7vps.vercel.app/api/top-langs/?username=TatsuyaHasunuma0123&exclude_repo=tatsuya-readme-stats&layout=compact" />
 </div>
-
----
 
 <a href="https://github.com/TatsuyaHasunuma0123/github-readme-stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsuyaHasunuma0123" />
 </a>
+
+---
+
+## マージ行数
+![image](https://github.com/TatsuyaHasunuma0123/TatsuyaHasunuma0123/assets/84307325/b6ec43da-d8dd-4425-8f9a-06d9343dcd05)
