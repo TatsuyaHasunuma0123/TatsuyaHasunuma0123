@@ -1,5 +1,3 @@
-# 🚀 [Here](https://tatsuyahasunuma0123.github.io/portfolio/) is my portfolio. 
-
 <!--
 **TatsuyaHasunuma0123/TatsuyaHasunuma0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,6 +28,3 @@ Here are some ideas to get you started:
 </a>
 
 ---
-
-## マージ行数
-![image](https://github.com/TatsuyaHasunuma0123/TatsuyaHasunuma0123/assets/84307325/b6ec43da-d8dd-4425-8f9a-06d9343dcd05)
