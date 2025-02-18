@@ -23,8 +23,10 @@ Here are some ideas to get you started:
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=TatsuyaHasunuma0123&count_private=true&include_all_commits=true&show_icons=true" />
 </div>
 
+---
+
 <a href="https://github.com/TatsuyaHasunuma0123/github-readme-stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsuyaHasunuma0123" />
 </a>
 
----
+
